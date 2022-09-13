@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Auth/static/css/main.5bc4e8f6.chunk.css",
+    "main.js": "/Auth/static/js/main.372ef08d.chunk.js",
+    "main.js.map": "/Auth/static/js/main.372ef08d.chunk.js.map",
+    "runtime-main.js": "/Auth/static/js/runtime-main.c4b888a8.js",
+    "runtime-main.js.map": "/Auth/static/js/runtime-main.c4b888a8.js.map",
+    "static/js/2.d8fbc5bc.chunk.js": "/Auth/static/js/2.d8fbc5bc.chunk.js",
+    "static/js/2.d8fbc5bc.chunk.js.map": "/Auth/static/js/2.d8fbc5bc.chunk.js.map",
+    "static/js/3.bf5e406b.chunk.js": "/Auth/static/js/3.bf5e406b.chunk.js",
+    "static/js/3.bf5e406b.chunk.js.map": "/Auth/static/js/3.bf5e406b.chunk.js.map",
+    "index.html": "/Auth/index.html",
+    "static/css/main.5bc4e8f6.chunk.css.map": "/Auth/static/css/main.5bc4e8f6.chunk.css.map",
+    "static/js/2.d8fbc5bc.chunk.js.LICENSE.txt": "/Auth/static/js/2.d8fbc5bc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Auth/static/media/delete.2af49b82.svg",
+    "static/media/Union2.7c6a020b.svg": "/Auth/static/media/Union2.7c6a020b.svg",
+    "static/media/Vector.bbe2a6ea.svg": "/Auth/static/media/Vector.bbe2a6ea.svg",
+    "static/media/avataricon.ae1a976d.svg": "/Auth/static/media/avataricon.ae1a976d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4b888a8.js",
+    "static/js/2.d8fbc5bc.chunk.js",
+    "static/css/main.5bc4e8f6.chunk.css",
+    "static/js/main.372ef08d.chunk.js"
+  ]
+}

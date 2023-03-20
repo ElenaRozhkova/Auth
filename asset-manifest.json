@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Auth/static/css/main.ae1a4038.chunk.css",
+    "main.css": "/Auth/static/css/main.ce0ec30c.chunk.css",
     "main.js": "/Auth/static/js/main.f5fb7e08.chunk.js",
     "main.js.map": "/Auth/static/js/main.f5fb7e08.chunk.js.map",
     "runtime-main.js": "/Auth/static/js/runtime-main.eb086493.js",
@@ -10,7 +10,7 @@
     "static/js/3.46619b0c.chunk.js": "/Auth/static/js/3.46619b0c.chunk.js",
     "static/js/3.46619b0c.chunk.js.map": "/Auth/static/js/3.46619b0c.chunk.js.map",
     "index.html": "/Auth/index.html",
-    "static/css/main.ae1a4038.chunk.css.map": "/Auth/static/css/main.ae1a4038.chunk.css.map",
+    "static/css/main.ce0ec30c.chunk.css.map": "/Auth/static/css/main.ce0ec30c.chunk.css.map",
     "static/js/2.284f969d.chunk.js.LICENSE.txt": "/Auth/static/js/2.284f969d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Auth/static/media/delete.2af49b82.svg",
     "static/media/Union2.7c6a020b.svg": "/Auth/static/media/Union2.7c6a020b.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.eb086493.js",
     "static/js/2.284f969d.chunk.js",
-    "static/css/main.ae1a4038.chunk.css",
+    "static/css/main.ce0ec30c.chunk.css",
     "static/js/main.f5fb7e08.chunk.js"
   ]
 }

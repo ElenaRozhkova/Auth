@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Auth/static/css/main.ae1a4038.chunk.css",
-    "main.js": "/Auth/static/js/main.2612dce0.chunk.js",
-    "main.js.map": "/Auth/static/js/main.2612dce0.chunk.js.map",
+    "main.js": "/Auth/static/js/main.fb10b8a4.chunk.js",
+    "main.js.map": "/Auth/static/js/main.fb10b8a4.chunk.js.map",
     "runtime-main.js": "/Auth/static/js/runtime-main.eb086493.js",
     "runtime-main.js.map": "/Auth/static/js/runtime-main.eb086493.js.map",
-    "static/js/2.6076f052.chunk.js": "/Auth/static/js/2.6076f052.chunk.js",
-    "static/js/2.6076f052.chunk.js.map": "/Auth/static/js/2.6076f052.chunk.js.map",
+    "static/js/2.284f969d.chunk.js": "/Auth/static/js/2.284f969d.chunk.js",
+    "static/js/2.284f969d.chunk.js.map": "/Auth/static/js/2.284f969d.chunk.js.map",
     "static/js/3.46619b0c.chunk.js": "/Auth/static/js/3.46619b0c.chunk.js",
     "static/js/3.46619b0c.chunk.js.map": "/Auth/static/js/3.46619b0c.chunk.js.map",
     "index.html": "/Auth/index.html",
     "static/css/main.ae1a4038.chunk.css.map": "/Auth/static/css/main.ae1a4038.chunk.css.map",
-    "static/js/2.6076f052.chunk.js.LICENSE.txt": "/Auth/static/js/2.6076f052.chunk.js.LICENSE.txt",
+    "static/js/2.284f969d.chunk.js.LICENSE.txt": "/Auth/static/js/2.284f969d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Auth/static/media/delete.2af49b82.svg",
     "static/media/Union2.7c6a020b.svg": "/Auth/static/media/Union2.7c6a020b.svg",
     "static/media/Vector.bbe2a6ea.svg": "/Auth/static/media/Vector.bbe2a6ea.svg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.eb086493.js",
-    "static/js/2.6076f052.chunk.js",
+    "static/js/2.284f969d.chunk.js",
     "static/css/main.ae1a4038.chunk.css",
-    "static/js/main.2612dce0.chunk.js"
+    "static/js/main.fb10b8a4.chunk.js"
   ]
 }
